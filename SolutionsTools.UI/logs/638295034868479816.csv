@@ -1,0 +1,2 @@
+linha;nome;sobrenome;erro;data
+1;nome_cliente;sobrenome_cliente;Não foi possível inserir, pois o cliente já existe na base.;05/09/2023 09:38:05
